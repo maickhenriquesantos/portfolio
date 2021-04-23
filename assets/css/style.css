@@ -1,0 +1,39 @@
+body, html{
+    padding: 0;
+    margin: 0;
+}
+
+.body{
+    height: auto;
+    width: 100%;
+}
+.col-md-8{
+    background-color: rgb(240, 240, 240);
+    height: 100vh;
+    width: 100vw;
+}
+
+.menu{
+    margin-top:200px;
+    text-align: center;
+}
+.copy p{
+    text-align: center;
+    margin-top:60px;
+}
+
+aside{
+    margin-top:200px;
+}
+.photo-perfil.img-fluid{
+    margin-left: 20%;
+    height: 280px;
+    width: 250px;
+
+}   
+h1{
+    text-align: left;
+}
+.col-md-7{
+    margin-top:35px;
+}
